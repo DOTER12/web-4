@@ -1,0 +1,17 @@
+
+
+body{
+    margin-top: 70px;
+    margin-left: 400px;
+}
+
+p {
+    display : flex;
+}
+.input1{
+    margin-left: 49px;
+}
+
+.input2{
+    margin-left: 16px;
+}
